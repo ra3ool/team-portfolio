@@ -34,7 +34,7 @@ defineProps<{
         }"
       >
         <UColorModeAvatar
-          class="size-18 ring ring-default ring-offset-3 ring-offset-(--ui-bg)"
+          class="size-18 ring ring-default ring-offset-3 ring-offset-bg"
           :light="global.picture?.light!"
           :dark="global.picture?.dark!"
           :alt="global.picture?.alt!"
@@ -111,13 +111,19 @@ defineProps<{
             variant="ghost"
             class="gap-2"
             :to="global.available ? global.meetingLink : ''"
-            :label="global.available ? 'Available for new projects' : 'Not available at the moment'"
+            :label="
+              global.available
+                ? 'Available for new projects'
+                : 'Not available at the moment'
+            "
           >
             <template #leading>
               <span class="relative flex size-2">
                 <span
                   class="absolute inline-flex size-full rounded-full opacity-75"
-                  :class="global.available ? 'bg-success animate-ping' : 'bg-error'"
+                  :class="
+                    global.available ? 'bg-success animate-ping' : 'bg-error'
+                  "
                 />
                 <span
                   class="relative inline-flex size-2 scale-90 rounded-full"
@@ -133,7 +139,6 @@ defineProps<{
         <Motion
           v-for="(link, index) of footer?.links"
           :key="index"
-
           :initial="{
             scale: 1.1,
             opacity: 0,
