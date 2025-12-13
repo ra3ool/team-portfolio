@@ -1,13 +1,13 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: 'Gorich - UI/UX Design & Full-Stack Development Team'
+  description: "Welcome to Gorich! We're a professional team of UI/UX designer and full-stack developer based in Iran. We deliver high-quality projects in the shortest time possible."
+title: "Hey, We're Gorich - Your Design & Development Team"
+description: 'We craft intuitive digital experiences where design meets functionality. A team of UI/UX designer and full-stack developer, delivering projects with best quality in shortest time.'
 hero:
   links:
-    - label: "Use this template"
+    - label: 'Use this template'
       to: https://github.com/nuxt-ui-templates/portfolio
-      color: "neutral"
+      color: 'neutral'
   images:
     - src: /hero/random-1.avif
       alt: Random Image 1
@@ -28,50 +28,50 @@ hero:
     - src: /hero/random-9.avif
       alt: Random Image 9
 about:
-  title: "About Me"
+  title: 'About Us'
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    We are Gorich, a professional team consisting of a UI/UX designer and a full-stack developer. We specialize in delivering high-quality projects in the shortest time possible.
+    Our approach combines creative design with technical expertise, transforming your ideas into functional, beautiful digital products.
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: 'Brand Designer at'
+      date: '2023 - Present'
       company:
         name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        logo: 'i-simple-icons-nuxtdotjs'
+        url: 'https://nuxt.com'
+        color: '#00DC82'
+    - position: 'Assets Designer at'
+      date: '2022 - 2023'
       company:
         name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        logo: 'i-simple-icons-raycast'
+        url: 'https://raycast.com'
+        color: '#FF6363'
+    - position: 'Senior UX/UI Designer at'
+      date: '2020 - 2021'
       company:
         name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        logo: 'i-simple-icons-linear'
+        url: 'https://linear.app'
+        color: '#5E6AD2'
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Gorich team's approach to design and development completely transformed our product. They delivered exceptional quality in record time, balancing beautiful aesthetics with functional simplicity."
     author:
       name: 'Sarah Chen'
       description: 'Product Director at Bloom Finance'
       avatar:
         src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+  - quote: "Working with Gorich was the best decision we made for our startup. Their seamless collaboration between design and development meant faster delivery without compromising quality."
     author:
       name: 'Michael Rodriguez'
       description: 'Co-founder of Wavelength Music'
       avatar:
         src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+  - quote: "The Gorich team stands out in their ability to translate complex requirements into intuitive interfaces. Their work was both visually stunning and technically solid."
     author:
       name: 'Dr. Aisha Johnson'
       description: 'Chief Innovation Officer at GreenTech Solutions'
@@ -79,8 +79,8 @@ testimonials:
         src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
 blog:
-  title: "Latest Articles"
-  description: "Some of my recent thoughts"
+  title: 'Latest Articles'
+  description: 'Some of my recent thoughts'
 faq:
   title: Frequently Asked Questions
   description: Answers to common questions about my process and services.
@@ -89,32 +89,33 @@ faq:
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
+            We specialize in UI/UX design and full-stack development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications, and developing complete solutions from front-end to back-end. Our goal is to deliver high-quality projects in the shortest time possible.
         - label: What is your design process like?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
+            Our process is collaborative and iterative, involving Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and Development. Having both designer and developer in one team ensures seamless implementation and faster delivery.
         - label: Do you work with startups?
           content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
+            Absolutely! We work with startups to help shape their product vision and create complete solutions from the ground up. Our team structure allows us to move fast and deliver quality results quickly.
     - title: Pricing & Timelines
       questions:
         - label: How much does a project typically cost?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
+            Project costs vary based on scope, complexity, features, and timeline. Contact us for a detailed quote tailored to your specific needs. We offer competitive pricing with best quality delivery.
         - label: What are your payment terms?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
+            We generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. We accept payments via bank transfer.
         - label: How long does a typical project take?
           content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
+            We pride ourselves on delivering projects in the shortest time possible without compromising quality. Timelines depend on project scope, but our integrated team structure allows for faster delivery than traditional workflows.
         - label: Do you offer retainers or ongoing support?
           content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
+            Yes, we offer monthly retainer options for ongoing design support, feature development, and maintenance. Contact us to discuss your specific needs.
     - title: About Me
       questions:
-        - label: What do you enjoy most about your work?
+        - label: How can we contact you?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
-          content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            You can reach us via:
+            - Email: mahsa.ba.askari@gmail.com
+            - Phone: 09331216757
+            - LinkedIn: https://www.linkedin.com/in/ra3ool
+            - GitHub: https://www.github.com/ra3ool
