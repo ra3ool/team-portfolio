@@ -8,6 +8,22 @@
   --font-serif: 'Instrument Serif', serif;
 }
 
+@theme {
+  --color-primary: #4f46e5;
+  --color-secondary: #64748b;
+  --color-success: #16a34a;
+  --color-warning: #f59e0b;
+  --color-error: #dc2626;
+}
+
+@theme dark {
+  --color-primary: #6366f1;
+  --color-secondary: #94a3b8;
+  --color-success: #22c55e;
+  --color-warning: #fbbf24;
+  --color-error: #ef4444;
+}
+
 :root {
   --ui-container: var(--container-4xl);
 
@@ -21,5 +37,17 @@
   ::selection {
     color: #ffffff;
     background-color: #474747;
+  }
+}
+
+@layer components {
+  .bg-app-light {
+    background-color: white;
+    color: black;
+  }
+
+  .bg-app-dark {
+    background-color: rgb(17 24 39);
+    color: white;
   }
 }
