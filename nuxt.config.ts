@@ -10,6 +10,8 @@ export default defineNuxtConfig({
     'motion-v/nuxt'
   ],
 
+  ssr: false,
+
   devtools: {
     enabled: true
   },
