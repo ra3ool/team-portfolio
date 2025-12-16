@@ -34,7 +34,7 @@ defineProps<{
         }"
       >
         <UColorModeAvatar
-          class="size-18 ring ring-default ring-offset-3 ring-offset-bg"
+          class="size-40 ring ring-default ring-offset-3 ring-offset-bg"
           :light="global.picture?.light!"
           :dark="global.picture?.dark!"
           :alt="global.picture?.alt!"
@@ -105,7 +105,6 @@ defineProps<{
           v-if="page.hero.links"
           class="flex items-center gap-2"
         >
-          <UButton v-bind="page.hero.links[0]" />
           <UButton
             :color="global.available ? 'success' : 'error'"
             variant="ghost"
@@ -132,6 +131,7 @@ defineProps<{
               </span>
             </template>
           </UButton>
+          <UButton v-bind="page.hero.links[0]" />
         </div>
       </Motion>
 

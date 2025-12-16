@@ -1,36 +1,36 @@
 seo:
-  title: 'Gorich - UI/UX Design & Full-Stack Development Team'
-  description: "Welcome to Gorich! We're a professional team of UI/UX designer and full-stack developer based in Iran. We deliver high-quality projects in the shortest time possible."
-title: "Hey, We're Gorich - Your Design & Development Team"
-description: 'We craft intuitive digital experiences where design meets functionality. A team of UI/UX designer and full-stack developer, delivering projects with best quality in shortest time.'
+  title: 'Lee-One - UI/UX Design & Full-Stack Development Team'
+  description: "We are Lee-One! We're a professional team of UI/UX designer and full-stack developer based in Iran. We deliver high-quality projects in the shortest time possible."
+title: "Hey, We're Lee-One Your Design & Development Team"
+description: 'We are a two-person design and development team that works side by side from idea to final product. By combining Product Design and Software Engineering, we create experiences that are both meaningful for users and technically robust. In our team, design is not just about visual aesthetics; it is a deliberate process grounded in user needs, product logic, and real-world development constraints. Likewise, engineering is not just about writing code; it is about turning ideas into stable, scalable, and reliable products. We believe the best products are created at the intersection of design thinking and engineering excellence.'
 hero:
   links:
-    - label: 'Use this template'
-      to: https://github.com/nuxt-ui-templates/portfolio
+    - label: 'Call us to know more'
+      to: tel:09331216757
       color: 'neutral'
   images:
-    - src: /hero/random-1.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 1
-    - src: /hero/random-2.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 2
-    - src: /hero/random-3.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 3
-    - src: /hero/random-4.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 4
-    - src: /hero/random-5.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 5
-    - src: /hero/random-6.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 6
-    - src: /hero/random-7.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 7
-    - src: /hero/random-8.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 8
-    - src: /hero/random-9.avif
+    - src: /work-pics/photo_1.jpg
       alt: Random Image 9
 about:
   title: 'About Us'
   description: |
-    We are Gorich, a professional team consisting of a UI/UX designer and a full-stack developer. We specialize in delivering high-quality projects in the shortest time possible.
+    We are Lee-One, a professional team consisting of a UI/UX designer and a full-stack developer. We specialize in delivering high-quality projects in the shortest time possible.
     Our approach combines creative design with technical expertise, transforming your ideas into functional, beautiful digital products.
 experience:
   title: Work Experience
@@ -57,21 +57,21 @@ experience:
         url: 'https://linear.app'
         color: '#5E6AD2'
 testimonials:
-  - quote: "Gorich team's approach to design and development completely transformed our product. They delivered exceptional quality in record time, balancing beautiful aesthetics with functional simplicity."
+  - quote: "Lee-One team's approach to design and development completely transformed our product. They delivered exceptional quality in record time, balancing beautiful aesthetics with functional simplicity."
     author:
       name: 'Sarah Chen'
       description: 'Product Director at Bloom Finance'
       avatar:
         src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Gorich was the best decision we made for our startup. Their seamless collaboration between design and development meant faster delivery without compromising quality."
+  - quote: 'Working with Lee-One was the best decision we made for our startup. Their seamless collaboration between design and development meant faster delivery without compromising quality.'
     author:
       name: 'Michael Rodriguez'
       description: 'Co-founder of Wavelength Music'
       avatar:
         src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "The Gorich team stands out in their ability to translate complex requirements into intuitive interfaces. Their work was both visually stunning and technically solid."
+  - quote: 'The Lee-One team stands out in their ability to translate complex requirements into intuitive interfaces. Their work was both visually stunning and technically solid.'
     author:
       name: 'Dr. Aisha Johnson'
       description: 'Chief Innovation Officer at GreenTech Solutions'

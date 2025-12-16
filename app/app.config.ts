@@ -1,12 +1,12 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      light: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      dark: 'https://avatars.githubusercontent.com/u/97020795',
+      light: 'https://avatars.githubusercontent.com/u/97020795',
       alt: 'My profile picture'
     },
-    meetingLink: 'https://cal.com/',
-    email: 'ui-pro@nuxt.com',
+    meetingLink: 'tel:09331216757',
+    email: 'mahsa.ba.askari@gmail.com',
     available: true
   },
   ui: {
@@ -23,21 +23,21 @@ export default defineAppConfig({
     }
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    credits: `Lee-One Team • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://go.nuxt.com/discord',
+      'icon': 'i-simple-icons-telegram',
+      'to': 'tg://resolve?domain=mrzdir',
       'target': '_blank',
       'aria-label': 'Nuxt on Discord'
     }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://go.nuxt.com/x',
+      'icon': 'i-simple-icons-linkedin',
+      'to': 'https://www.linkedin.com/in/ra3ool',
       'target': '_blank',
       'aria-label': 'Nuxt on X'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/ra3ool',
       'target': '_blank',
       'aria-label': 'Nuxt UI on GitHub'
     }]
