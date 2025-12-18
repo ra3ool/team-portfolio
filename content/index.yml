@@ -1,6 +1,6 @@
 seo:
-  title: 'Lee-One - UI/UX Design & Full-Stack Development Team'
-  description: "We are Lee-One! We're a professional team of UI/UX designer and full-stack developer based in Iran. We deliver high-quality projects in the shortest time possible."
+  title: 'Lee-One - Product Design & Full-Stack Development Team'
+  description: "We are Lee-One! We're a professional team of Product designer and full-stack developer based in Iran. We deliver high-quality projects in the shortest time possible."
 title: "Hey, We're Lee-One Your Design & Development Team"
 description: 'We are a two-person design and development team that works side by side from idea to final product. By combining Product Design and Software Engineering, we create experiences that are both meaningful for users and technically robust. In our team, design is not just about visual aesthetics; it is a deliberate process grounded in user needs, product logic, and real-world development constraints. Likewise, engineering is not just about writing code; it is about turning ideas into stable, scalable, and reliable products. We believe the best products are created at the intersection of design thinking and engineering excellence.'
 hero:
@@ -30,7 +30,7 @@ hero:
 about:
   title: 'About Us'
   description: |
-    We are Lee-One, a professional team consisting of a UI/UX designer and a full-stack developer. We specialize in delivering high-quality projects in the shortest time possible.
+    We are Lee-One, a professional team consisting of a Product designer and a full-stack developer. We specialize in delivering high-quality projects in the shortest time possible.
     Our approach combines creative design with technical expertise, transforming your ideas into functional, beautiful digital products.
 experience:
   title: Work Experience
@@ -89,7 +89,7 @@ faq:
       questions:
         - label: What services do you offer?
           content: |
-            We specialize in UI/UX design and full-stack development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications, and developing complete solutions from front-end to back-end. Our goal is to deliver high-quality projects in the shortest time possible.
+            We specialize in Product design and full-stack development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications, and developing complete solutions from front-end to back-end. Our goal is to deliver high-quality projects in the shortest time possible.
         - label: What is your design process like?
           content: |
             Our process is collaborative and iterative, involving Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and Development. Having both designer and developer in one team ensures seamless implementation and faster delivery.
@@ -117,5 +117,5 @@ faq:
             You can reach us via:
             - Email: mahsa.ba.askari@gmail.com
             - Phone: 09331216757
-            - LinkedIn: https://www.linkedin.com/in/ra3ool
-            - GitHub: https://www.github.com/ra3ool
+            - LinkedIn: https://www.linkedin.com/in/askari-mahsa
+            - GitHub: https://www.github.com/askari-mahsa

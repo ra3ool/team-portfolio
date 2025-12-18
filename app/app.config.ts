@@ -27,17 +27,17 @@ export default defineAppConfig({
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-telegram',
-      'to': 'tg://resolve?domain=mrzdir',
+      'to': 'tg://resolve?domain=mahsa_prode',
       'target': '_blank',
       'aria-label': 'Nuxt on Discord'
     }, {
       'icon': 'i-simple-icons-linkedin',
-      'to': 'https://www.linkedin.com/in/ra3ool',
+      'to': 'https://www.linkedin.com/in/askari-mahsa',
       'target': '_blank',
       'aria-label': 'Nuxt on X'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/ra3ool',
+      'to': 'https://github.com/askari-mahsa',
       'target': '_blank',
       'aria-label': 'Nuxt UI on GitHub'
     }]

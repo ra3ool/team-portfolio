@@ -1,7 +1,7 @@
 title: About Us
-description: Learn more about Lee-One, a professional team of UI/UX designer and full-stack developer delivering high-quality projects in the shortest time.
+description: Learn more about Lee-One, a professional team of Product designer and full-stack developer delivering high-quality projects in the shortest time.
 content: |
-  Hi, We're **Lee-One**, a professional team consisting of a UI/UX designer and a full-stack developer based in Iran. We specialize in delivering high-quality digital products in the shortest time possible without compromising on quality.
+  Hi, We're **Lee-One**, a professional team consisting of a Product designer and a full-stack developer based in Iran. We specialize in delivering high-quality digital products in the shortest time possible without compromising on quality.
 
   Our team combines creative design expertise with full-stack development capabilities, allowing us to handle projects from concept to deployment seamlessly. This integrated approach means faster delivery, better communication, and higher quality results.
 
@@ -20,8 +20,8 @@ content: |
   Ready to start your project? Feel free to browse our [projects](/projects) or contact us:
   - Email: mahsa.ba.askari@gmail.com
   - Phone: 09331216757
-  - LinkedIn: https://www.linkedin.com/in/ra3ool
-  - GitHub: https://www.github.com/ra3ool
+  - LinkedIn: https://www.linkedin.com/in/askari-mahsa
+  - GitHub: https://www.github.com/askari-mahsa
 images:
   - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     alt: My coffee workspace
